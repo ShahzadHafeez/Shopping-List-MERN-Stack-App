@@ -1,6 +1,8 @@
-Mern Stack app
+# Shopping List-MERN Stack App
 
-- ReactStrap used (umer's link)
-- Fetch API used
-- Mongoose DB used
-- Express Framework used
+This a complete shopping list app developed by using Mongoose as database, Express JS, React, Node JS (MERN Stack).
+
+- ReactStrap 
+- Fetch API 
+- Mongoose DB 
+- Express Framework
